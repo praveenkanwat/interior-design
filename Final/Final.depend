@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1429198625 source:c:\users\sai\desktop\final\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1428722234 c:\users\sai\desktop\final\imageloader.h
+
+1429200520 source:c:\users\sai\desktop\final\untitled1.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"imageloader.h"
+	<iostream>
+	<fstream>
+
